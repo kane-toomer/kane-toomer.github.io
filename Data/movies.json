@@ -1,0 +1,762 @@
+[
+    {
+        "id": 1,
+        "title": "The Terminator",
+        "Year": "1984",
+        "rated": "R",
+        "released": "26 Oct 1984",
+        "Runtime": "107 min",
+        "genre": "Action, Sci-Fi",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Gale Anne Hurd, William Wisher",
+        "actors": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+        "plot": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvat...",
+        "Language": "English, Spanish",
+        "Country": "United Kingdom, United States",
+        "Awards": "8 wins & 6 nominations",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "8.1",
+        "imdbVotes": "850,572",
+        "imdbID": "tt0088247",
+        "Type": "movie",
+        "DVD": "02 Oct 2001",
+        "BoxOffice": "$38,371,200",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 2,
+        "title": "Full House",
+        "Year": "1987–1995",
+        "rated": "TV-G",
+        "released": "10 Mar 1987",
+        "Runtime": "22 min",
+        "genre": "Comedy, Drama, Family",
+        "Director": "N/A",
+        "Writer": "Jeff Franklin",
+        "actors": "Bob Saget, John Stamos, Dave Coulier",
+        "plot": "A widowed broadcaster raises his three daughters with assistance from his rock'n'roll brother-in-law and his madcap best friend.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "16 wins & 20 nominations",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2VhZjA4ZGMtMTM0ZC00MTIyLWFjMzMtOWI4Y2JjN2IyNmYyXkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.7",
+        "imdbVotes": "58,457",
+        "imdbID": "tt0092359",
+        "Type": "series",
+        "totalSeasons": "8",
+        "Response": "True"
+    },
+    {
+        "id": 3,
+        "title": "Beverly Hills Cop",
+        "Year": "1984",
+        "rated": "R",
+        "released": "05 Dec 1984",
+        "Runtime": "105 min",
+        "genre": "Action, Comedy, Crime",
+        "Director": "Martin Brest",
+        "Writer": "Daniel Petrie Jr., Danilo Bach",
+        "actors": "Eddie Murphy, Judge Reinhold, John Ashton",
+        "plot": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 4 wins & 5 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2MyZDE0YjAtNWFjYy00MWRlLTk3MTktMzY3ZDVhNTJkZTlmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Metascore": "66",
+        "imdbRating": "7.3",
+        "imdbVotes": "182,013",
+        "imdbID": "tt0086960",
+        "Type": "movie",
+        "DVD": "29 Jan 2002",
+        "BoxOffice": "$234,760,478",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 4,
+        "title": "Friends",
+        "Year": "1994–2004",
+        "rated": "TV-14",
+        "released": "22 Sep 1994",
+        "Runtime": "22 min",
+        "genre": "Comedy, Romance",
+        "Director": "N/A",
+        "Writer": "David Crane, Marta Kauffman",
+        "actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt Leblanc, Matthew Perry, David Schwimmer",
+        "plot": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+        "Language": "English, Spanish, Italian, French, Dutch, Hebrew",
+        "Country": "United States",
+        "Awards": "Won 6 Primetime Emmys. 77 wins & 220 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.8",
+        "imdbVotes": "965,939",
+        "imdbID": "tt0108778",
+        "Type": "series",
+        "totalSeasons": "10",
+        "Response": "True"
+    },
+    {
+        "id": 5,
+        "title": "Pulp Fiction",
+        "Year": "1994",
+        "rated": "R",
+        "released": "14 Oct 1994",
+        "Runtime": "154 min",
+        "genre": "Crime, Drama",
+        "Director": "Quentin Tarantino",
+        "Writer": "Quentin Tarantino, Roger Avary",
+        "actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "Language": "English, Spanish, French",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 70 wins & 75 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": "94",
+        "imdbRating": "8.9",
+        "imdbVotes": "2,003,910",
+        "imdbID": "tt0110912",
+        "Type": "movie",
+        "DVD": "20 Aug 2002",
+        "BoxOffice": "$107,928,762",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 6,
+        "title": "Goodfellas",
+        "Year": "1990",
+        "rated": "R",
+        "released": "21 Sep 1990",
+        "Runtime": "145 min",
+        "genre": "Biography, Crime, Drama",
+        "Director": "Martin Scorsese",
+        "Writer": "Nicholas Pileggi, Martin Scorsese",
+        "actors": "Robert De Niro, Ray Liotta, Joe Pesci",
+        "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "Language": "English, Italian",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 44 wins & 38 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }
+        ],
+        "Metascore": "90",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,132,532",
+        "imdbID": "tt0099685",
+        "Type": "movie",
+        "DVD": "22 Aug 1997",
+        "BoxOffice": "$46,909,721",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 7,
+        "title": "In Living Color",
+        "Year": "1990–1994",
+        "rated": "TV-14",
+        "released": "15 Apr 1990",
+        "Runtime": "30 min",
+        "genre": "Comedy",
+        "Director": "N/A",
+        "Writer": "Keenen Ivory Wayans",
+        "actors": "Keenen Ivory Wayans, Jim Carrey, Kelly Coffield Park",
+        "plot": "The Wayans siblings present an African-American focused sketch comedy show.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Primetime Emmy. 6 wins & 21 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk1OTExOTE0OF5BMl5BanBnXkFtZTcwNTI4MjgyMQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.1",
+        "imdbVotes": "11,303",
+        "imdbID": "tt0098830",
+        "Type": "series",
+        "totalSeasons": "5",
+        "Response": "True"
+    },
+    {
+        "id": 8,
+        "title": "Cheers",
+        "Year": "1982–1993",
+        "rated": "TV-PG",
+        "released": "30 Sep 1982",
+        "Runtime": "22 min",
+        "genre": "Comedy, Drama",
+        "Director": "N/A",
+        "Writer": "James Burrows, Glen Charles, Les Charles",
+        "actors": "Ted Danson, Rhea Perlman, John Ratzenberger",
+        "plot": "The regulars of the Boston bar \"Cheers\" share their experiences and lives with each other while drinking or working at the bar where everybody knows your name.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 28 Primetime Emmys. 77 wins & 181 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTY0ZWFmNTktOGNjNi00M2Y0LWE1ODItZWY4Mzk3MzVjMDgzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.9",
+        "imdbVotes": "54,175",
+        "imdbID": "tt0083399",
+        "Type": "series",
+        "totalSeasons": "11",
+        "Response": "True"
+    },
+    {
+        "id": 9,
+        "title": "Top Gun",
+        "Year": "1986",
+        "rated": "PG",
+        "released": "16 May 1986",
+        "Runtime": "110 min",
+        "genre": "Action, Drama",
+        "Director": "Tony Scott",
+        "Writer": "Jim Cash, Jack Epps Jr., Ehud Yonay",
+        "actors": "Tom Cruise, Tim Robbins, Kelly McGillis",
+        "plot": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 11 wins & 5 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2NlZjQ3ZTAtMzcxZC00MGZhLWFhNTQtN2M4NDBjYzIyOWNlXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "58%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "50/100"
+            }
+        ],
+        "Metascore": "50",
+        "imdbRating": "6.9",
+        "imdbVotes": "398,036",
+        "imdbID": "tt0092099",
+        "Type": "movie",
+        "DVD": "20 Oct 1998",
+        "BoxOffice": "$180,258,178",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 10,
+        "title": "The Karate Kid",
+        "Year": "1984",
+        "rated": "PG",
+        "released": "22 Jun 1984",
+        "Runtime": "126 min",
+        "genre": "Action, Drama, Family",
+        "Director": "John G. Avildsen",
+        "Writer": "Robert Mark Kamen",
+        "actors": "Ralph Macchio, Pat Morita, Elisabeth Shue",
+        "plot": "A martial arts master agrees to teach karate to a bullied teenager.",
+        "Language": "English, Japanese",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "89%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "60/100"
+            }
+        ],
+        "Metascore": "60",
+        "imdbRating": "7.3",
+        "imdbVotes": "221,517",
+        "imdbID": "tt0087538",
+        "Type": "movie",
+        "DVD": "01 Feb 2005",
+        "BoxOffice": "$91,077,276",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 11,
+        "title": "Batman",
+        "Year": "1989",
+        "rated": "PG-13",
+        "released": "23 Jun 1989",
+        "Runtime": "126 min",
+        "genre": "Action, Adventure",
+        "Director": "Tim Burton",
+        "Writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+        "actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "Language": "English, French, Spanish",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 1 Oscar. 9 wins & 26 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTM2NmZlOTEtYTI5NS00N2JjLWJkNzItMmZkNDBlYmQzNDA2XkEyXkFqcGdeQXVyMTAxODYyODI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "7.5",
+        "imdbVotes": "373,505",
+        "imdbID": "tt0096895",
+        "Type": "movie",
+        "DVD": "22 Aug 1997",
+        "BoxOffice": "$251,409,241",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 12,
+        "title": "Prime Risk",
+        "Year": "1985",
+        "rated": "PG-13",
+        "released": "01 Apr 1985",
+        "Runtime": "98 min",
+        "genre": "Crime, Drama, Thriller",
+        "Director": "Michael Farkas",
+        "Writer": "Michael Farkas",
+        "actors": "Lee Montgomery, Toni Hudson, Sam Bottoms",
+        "plot": "A female engineer, with the assistance of her pilot-wannabe male friend, discovers a way to rip off ATM machines, but in doing so stumbles upon a plot to destroy the U.S. monetary system.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDE2NjQ4OGUtMGYwZC00YTUxLWJiMDgtMjVkYjlmODU2ODM2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.5/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.5",
+        "imdbVotes": "310",
+        "imdbID": "tt0087942",
+        "Type": "movie",
+        "DVD": "26 Dec 2016",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 13,
+        "title": "Last Action Hero",
+        "Year": "1993",
+        "rated": "PG-13",
+        "released": "18 Jun 1993",
+        "Runtime": "130 min",
+        "genre": "Action, Adventure, Comedy",
+        "Director": "John McTiernan",
+        "Writer": "Zak Penn, Adam Leff, Shane Black",
+        "actors": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
+        "plot": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win & 16 nominations",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjdhOGY1OTktYWJkZC00OGY5LWJhY2QtZmQzZDA2MzY5MmNmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "39%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "44/100"
+            }
+        ],
+        "Metascore": "44",
+        "imdbRating": "6.4",
+        "imdbVotes": "150,584",
+        "imdbID": "tt0107362",
+        "Type": "movie",
+        "DVD": "07 Oct 1997",
+        "BoxOffice": "$50,016,394",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 14,
+        "title": "Twins",
+        "Year": "1988",
+        "rated": "PG",
+        "released": "09 Dec 1988",
+        "Runtime": "107 min",
+        "genre": "Comedy, Crime",
+        "Director": "Ivan Reitman",
+        "Writer": "Will Davies, William Osborne, Timothy Harris",
+        "actors": "Arnold Schwarzenegger, Danny DeVito, Kelly Preston",
+        "plot": "A physically perfect but innocent man goes in search of his long-lost twin brother, who is short, a womanizer, and small-time crook.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "4 wins & 1 nomination",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWUzN2VkY2ItYmQ4YS00MjFmLWJhZDQtYWY1NWQ2NTA5NDNlXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "43%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "53/100"
+            }
+        ],
+        "Metascore": "53",
+        "imdbRating": "6.1",
+        "imdbVotes": "123,849",
+        "imdbID": "tt0096320",
+        "Type": "movie",
+        "DVD": "23 Aug 2005",
+        "BoxOffice": "$111,938,388",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 15,
+        "title": "Stand and Deliver",
+        "Year": "1988",
+        "rated": "PG",
+        "released": "11 Mar 1988",
+        "Runtime": "103 min",
+        "genre": "Biography, Drama",
+        "Director": "Ramón Menéndez",
+        "Writer": "Ramón Menéndez, Tom Musca",
+        "actors": "Edward James Olmos, Estelle Harris, Mark Phelan",
+        "plot": "The story of Jaime Escalante, a high school teacher who successfully inspired his dropout-prone students to learn calculus.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MjA4MTcwOF5BMl5BanBnXkFtZTgwNTI4OTI1MDE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "77/100"
+            }
+        ],
+        "Metascore": "77",
+        "imdbRating": "7.3",
+        "imdbVotes": "20,323",
+        "imdbID": "tt0094027",
+        "Type": "movie",
+        "DVD": "10 Nov 1998",
+        "BoxOffice": "$13,994,920",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 16,
+        "title": "Friday",
+        "Year": "1995",
+        "rated": "R",
+        "released": "26 Apr 1995",
+        "Runtime": "91 min",
+        "genre": "Comedy, Drama",
+        "Director": "F. Gary Gray",
+        "Writer": "Ice Cube, DJ Pooh",
+        "actors": "Ice Cube, Chris Tucker, Nia Long",
+        "plot": "It's Friday, and Craig and Smokey must come up with $200 they owe a local bully or there won't be a Saturday.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win & 5 nominations",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ],
+        "Metascore": "54",
+        "imdbRating": "7.2",
+        "imdbVotes": "112,285",
+        "imdbID": "tt0113118",
+        "Type": "movie",
+        "DVD": "10 Sep 2002",
+        "BoxOffice": "$27,467,564",
+        "Production": "Zebra",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 17,
+        "title": "Clueless",
+        "Year": "1995",
+        "rated": "PG-13",
+        "released": "19 Jul 1995",
+        "Runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "Director": "Amy Heckerling",
+        "Writer": "Amy Heckerling",
+        "actors": "Alicia Silverstone, Stacey Dash, Brittany Murphy",
+        "plot": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "6 wins & 11 nominations",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzBmOGQ0NWItOTZjZC00ZDAxLTgyOTEtODJiYWQ2YWNiYWVjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }
+        ],
+        "Metascore": "68",
+        "imdbRating": "6.9",
+        "imdbVotes": "212,747",
+        "imdbID": "tt0112697",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$56,631,572",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 18,
+        "title": "Men in Black",
+        "Year": "1997",
+        "rated": "PG-13",
+        "released": "02 Jul 1997",
+        "Runtime": "98 min",
+        "genre": "Action, Adventure, Comedy",
+        "Director": "Barry Sonnenfeld",
+        "Writer": "Lowell Cunningham, Ed Solomon",
+        "actors": "Tommy Lee Jones, Will Smith, Linda Fiorentino",
+        "plot": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 22 wins & 39 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.3",
+        "imdbVotes": "559,432",
+        "imdbID": "tt0119654",
+        "Type": "movie",
+        "DVD": "13 May 2003",
+        "BoxOffice": "$250,690,539",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 19,
+        "title": "Toy Story",
+        "Year": "1995",
+        "rated": "G",
+        "released": "22 Nov 1995",
+        "Runtime": "81 min",
+        "genre": "Animation, Adventure, Comedy",
+        "Director": "John Lasseter",
+        "Writer": "John Lasseter, Pete Docter, Andrew Stanton",
+        "actors": "Tom Hanks, Tim Allen, Don Rickles",
+        "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 3 Oscars. 27 wins & 23 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "95/100"
+            }
+        ],
+        "Metascore": "95",
+        "imdbRating": "8.3",
+        "imdbVotes": "975,237",
+        "imdbID": "tt0114709",
+        "Type": "movie",
+        "DVD": "23 Mar 2010",
+        "BoxOffice": "$223,225,679",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 20,
+        "title": "Jurassic Park",
+        "Year": "1993",
+        "rated": "PG-13",
+        "released": "11 Jun 1993",
+        "Runtime": "127 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "Director": "Steven Spielberg",
+        "Writer": "Michael Crichton, David Koepp",
+        "actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+        "plot": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "Won 3 Oscars. 44 wins & 27 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }
+        ],
+        "Metascore": "68",
+        "imdbRating": "8.2",
+        "imdbVotes": "969,576",
+        "imdbID": "tt0107290",
+        "Type": "movie",
+        "DVD": "28 Oct 2003",
+        "BoxOffice": "$404,214,720",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
